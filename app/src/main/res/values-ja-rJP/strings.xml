@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">台北旅行の楽しみ</string>
+    <string name="confirm">確認する</string>
+    <string name="cancel">キャンセル</string>
+    <string name="popup_network_error_title">ネットワーク接続が不安定です</string>
+    <string-array name="language">
+        <item>繁體中文</item>
+        <item>English</item>
+        <item>ja</item>
+    </string-array>
+</resources>

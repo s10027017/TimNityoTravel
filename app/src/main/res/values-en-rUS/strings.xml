@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaipeiTour</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="popup_network_error_title">The network connection is unstable</string>
+    <string-array name="language">
+        <item>繁體中文</item>
+        <item>English</item>
+        <item>ja</item>
+    </string-array>
+</resources>

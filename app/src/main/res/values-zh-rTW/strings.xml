@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">台北旅遊趣</string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="popup_network_error_title">網路連線不穩定</string>
+    <string-array name="language">
+        <item>繁體中文</item>
+        <item>English</item>
+        <item>ja</item>
+    </string-array>
+</resources>
